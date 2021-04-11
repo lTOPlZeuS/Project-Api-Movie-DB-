@@ -8,3 +8,7 @@ Tecnologías usadas:
 ![Selección_017](https://user-images.githubusercontent.com/22924166/114289893-086f5d80-9a41-11eb-89fe-baa71d676e20.png)
 ![Selección_018](https://user-images.githubusercontent.com/22924166/114289898-0ad1b780-9a41-11eb-9227-4f917b2296e8.png)
 ![Selección_019](https://user-images.githubusercontent.com/22924166/114289900-0c9b7b00-9a41-11eb-81fd-90a03ebdca4e.png)
+## Autor
+* Rocha Vicente Jesus Antonio
+### Contacto
+jesus_reddead@comunidad.unam.mx
